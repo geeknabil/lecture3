@@ -1,4 +1,4 @@
-
+// adding function
 function adding(){
     
     // Num Variable 
@@ -10,4 +10,5 @@ function adding(){
     
 }
 
+// adding the value to dom
 document.querySelector("h1").innerHTML = adding();
