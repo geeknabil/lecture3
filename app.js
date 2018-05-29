@@ -1,5 +1,7 @@
-var a = 'Hello World!';
+console.log(sum(1, 2));
 
-function b() {
-    
+
+
+function sum(a, b) {
+    return a + b;
 }
