@@ -1,5 +1,9 @@
-var a = 'Hello World!';
+var num1 = 3,
+    num2 = 4;
 
-function b() {
-    
+function sum(x, y) {
+    return x + y
 }
+
+
+console.log(sum(num1, num2))
